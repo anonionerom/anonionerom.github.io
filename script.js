@@ -11,6 +11,7 @@ function searchTechnique() {
         "TA0011": ["command_and_control/win_telegram_api.yml"],
         "TA0005": ["defense_evasion/posh_ps_clear_powershell_history.yml","defense_evasion/proc_access_win_hack_sysmonente.yml", "defense_evasion/proc_access_win_invoke_phantom.yml"],
         "TA0010": ["exfiltration/net_connection_win_mega_nz.yml","exfiltration/aws_snapshot_backup_exfiltration.yml","exfiltration/net_connection_win_ngrok_io.yml"],
+        "TA0004": ["privilege_escalation/privilege_escalation.yml"],
         // Add more entries with subdirectories as needed
     };
 
