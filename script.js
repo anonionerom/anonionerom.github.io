@@ -9,8 +9,8 @@ function searchTechnique() {
     var mitreData = {
         "TA0006": ["credential_access/lazagne_cred_dump.yml","credential_access/win_reg_cred_dll.yml"],
         "TA0011": ["command_and_control/win_telegram_api.yml"],
-        "TA0005": ["defense_evasion/posh_ps_clear_powershell_history.yml"],
-        "TA0010": ["exfiltration/net_connection_win_mega_nz.yml"],
+        "TA0005": ["defense_evasion/posh_ps_clear_powershell_history.yml","defense_evasion/proc_access_win_hack_sysmonente.yml", "defense_evasion/proc_access_win_invoke_phantom.yml"],
+        "TA0010": ["exfiltration/net_connection_win_mega_nz.yml","exfiltration/aws_snapshot_backup_exfiltration.yml","exfiltration/net_connection_win_ngrok_io.yml"],
         // Add more entries with subdirectories as needed
     };
 
