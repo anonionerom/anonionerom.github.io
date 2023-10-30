@@ -14,6 +14,7 @@ function searchTechnique() {
         "TA0004": ["privilege_escalation/privilege_escalation.yml"],
         "TA0007": ["discovery/posh_ps_get_adgroup.yml"],
         "TA0040": ["impact/net_dns_pua_cryptocoin_mining_xmr.yml"],
+		"TA0006": ["credential_access/proc_access_win_lsass_memdump_indicators.yml"],
         // Add more entries with subdirectories as needed
     };
 
