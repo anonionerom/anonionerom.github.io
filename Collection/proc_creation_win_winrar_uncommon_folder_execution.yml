@@ -33,3 +33,5 @@ detection:
 falsepositives:
     - Legitimate use of WinRAR in a folder of a software that bundles WinRAR
 level: medium
+
+test
